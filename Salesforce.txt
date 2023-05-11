@@ -25,5 +25,7 @@ $user$#12
 Chatgpt:gudaguntisudha@gmail.com
 pwd:Sudha@123
 
+Git User:sudharani2484
+pwd:Sudha@2484
 
 Git Token(sudhag) :  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
