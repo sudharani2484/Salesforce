@@ -1,0 +1,29 @@
+username:sudhag@mille.com
+pwd:sudha@321
+
+username:test1@mille.com
+pwd:Test@123
+
+username:test2@mille.com
+pwd:Test@1234
+
+username:batch88@mille.com
+pwd:Batch@123
+
+Admin@Milletech@$$6
+
+sudharani@milletech123.com
+Talwar@321
+
+
+sudharani@milletechinc.com
+Alpha&123
+
+Screen Pwd:
+$user$#12
+
+Chatgpt:gudaguntisudha@gmail.com
+pwd:Sudha@123
+
+
+Git Token(sudhag) :  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
